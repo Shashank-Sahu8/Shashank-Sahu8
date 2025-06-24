@@ -268,7 +268,7 @@ const shashank = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shashank-Sahu8/Shashank-Sahu8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
