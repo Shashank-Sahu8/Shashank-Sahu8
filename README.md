@@ -17,27 +17,44 @@
 const shashank = {
     pronouns: "He/Him",
     code: ["JavaScript", "TypeScript", "Python", "Java", "Dart", "C++"],
-    askMeAbout: ["web dev", "mobile dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "mobile dev", "tech", "app dev", "entrepreneurship"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Next.js"],
             css: ["Bootstrap", "Tailwind", "Material-UI"]
         },
         backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
+            js: ["Node", "Express"]
         },
         mobileApp: {
-            crossPlatform: ["Flutter", "React Native"]
+            crossPlatform: ["Flutter"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        databases: ["MongoDB", "MySQL", "Firebase"],
         misc: ["Socket.IO", "GraphQL", "Docker", "AWS"]
     },
-    currentFocus: "Building amazing web applications and contributing to open source",
-    funFact: "I debug with console.log() and I'm not ashamed of it! 😄"
+    currentFocus: "Building scalable applications at The Heion Group",
+    funFact: "I once wrote a recursive function that was so efficient, it optimized itself! 🚀"
 };
 ```
+
+---
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-Sahu8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sahu8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Sahu8&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D4FF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashank-Sahu8&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
 
 ---
 
@@ -68,23 +85,6 @@ const shashank = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-Sahu8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sahu8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Sahu8&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D4FF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashank-Sahu8&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -110,9 +110,6 @@ const shashank = {
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
