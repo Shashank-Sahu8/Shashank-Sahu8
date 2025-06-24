@@ -61,8 +61,8 @@ const shashank = {
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-Sahu8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sahu8&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-Sahu8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sahu8&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400"/>
 </div>
 
 <div align="center">
@@ -83,10 +83,6 @@ const shashank = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shashank-Sahu8&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&border_radius=10" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shashank-Sahu8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="Wakatime Stats" />
 </div>
 
 ---
@@ -182,8 +178,6 @@ const shashank = {
 </table>
 
 ### 🚀 Recent Contributions
-- 🔥 **449+ commits** in the last year across multiple repositories
-- 🌟 **34+ repositories** contributed to, including private projects
 - 📱 **Mobile apps** built with Flutter for cross-platform compatibility
 - 🌐 **Web applications** developed with modern React ecosystem
 
@@ -226,8 +220,8 @@ const shashank = {
 ## 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=SaatPherasWorldWide&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="Repo Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=ConnectToKrsna&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="Repo Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=SaatPherasWorldWide&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400" alt="Repo Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400" alt="Repo Card" />
 </div>
 
 <div align="center">
@@ -264,15 +258,54 @@ const shashank = {
 ## 💬 Inspirational Quotes
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=FF6B6B" alt="Random Quote" />
 </div>
 
 ---
 
-## 🎵 Spotify Playing
+## 🌟 Developer Mindset & Philosophy
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
+
+```yaml
+developer_philosophy:
+  core_beliefs:
+    - "Clean code is not written by following a set of rules, it's written with care"
+    - "First make it work, then make it right, then make it fast"
+    - "A bug is never just a mistake, it's a learning opportunity"
+  
+  daily_mantras:
+    morning: "Today I will write code that future me will thank me for"
+    debugging: "Every error message is a teacher in disguise"
+    deployment: "Ship it with confidence, monitor it with vigilance"
+  
+  tech_stack_evolution:
+    2022: ["HTML", "CSS", "JavaScript", "Basic React"]
+    2023: ["React", "Node.js", "MongoDB", "Express", "Flutter"]
+    2024: ["TypeScript", "Next.js", "AWS", "Docker", "GraphQL"]
+    2025: ["Microservices", "Kubernetes", "Advanced React Patterns"]
+  
+  problem_solving_approach:
+    step_1: "Break it down into smaller problems"
+    step_2: "Google it (we all do it!)"
+    step_3: "Try different approaches"
+    step_4: "Ask for help when stuck"
+    step_5: "Document the solution for others"
+```
+
+</div>
+
+<div align="center">
+  
+### 💭 Current Learning Journey
+
+| 📚 Learning | 🎯 Progress | 🔄 Status | 🎉 Goal |
+|-------------|-------------|-----------|---------|
+| **Microservices Architecture** | ████████▒▒ 80% | 🔥 Active | Master by Q3 2025 |
+| **Kubernetes & DevOps** | ██████▒▒▒▒ 60% | 📈 Progress | Production Ready |
+| **System Design** | █████▒▒▒▒▒ 50% | 💪 Grinding | FAANG Interview Ready |
+| **GraphQL Advanced** | ███████▒▒▒ 70% | ⚡ Fast Track | Expert Level |
+
 </div>
 
 ---
