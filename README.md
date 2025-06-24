@@ -27,6 +27,7 @@ const shashank = {
     company: "The Heion Group",
     role: "Full Stack Developer",
     passion: "Creating scalable applications that make a difference",
+    quote: "The only way to do great work is to love what you do - Steve Jobs",
     
     code: {
         frontend: ["JavaScript", "TypeScript", "React", "Next.js", "HTML5", "CSS3"],
@@ -220,8 +221,50 @@ const shashank = {
 ## 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=SaatPherasWorldWide&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400" alt="Repo Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-Sahu8&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400" alt="Repo Card" />
+
+### 🚀 My Latest Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 SaatPherasWorldWide</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </div>
+      <br>
+      <p align="center">A comprehensive wedding planning platform connecting couples with vendors, featuring real-time booking, payment integration, and vendor management.</p>
+      <div align="center">
+        <a href="https://SaatPherasWorldWide.com">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Umang IYF Platform</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+      </div>
+      <br>
+      <p align="center">Youth empowerment platform for IYF Ghaziabad featuring event management, member registration, and community engagement tools.</p>
+      <div align="center">
+        <a href="https://umang.iyfghaziabad.in">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Activity Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Sahu8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
+</div>
+
 </div>
 
 <div align="center">
@@ -255,10 +298,10 @@ const shashank = {
 
 ---
 
-## 💬 Inspirational Quotes
+## 💬 Inspirational Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=FF6B6B" alt="Random Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do%22;-+Steve+Jobs;%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+just+a+plot+twist!%22" alt="Quote Typing SVG" />
 </div>
 
 ---
@@ -273,6 +316,7 @@ developer_philosophy:
     - "Clean code is not written by following a set of rules, it's written with care"
     - "First make it work, then make it right, then make it fast"
     - "A bug is never just a mistake, it's a learning opportunity"
+    - "The only way to do great work is to love what you do - Steve Jobs"
   
   daily_mantras:
     morning: "Today I will write code that future me will thank me for"
