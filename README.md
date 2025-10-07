@@ -81,7 +81,7 @@ const shashank = {
 ---
 
 ## 🏆 Achievements & Recognition
-
+[![An image of @shashanksahu8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashanksahu8)](https://holopin.io/@shashanksahu8)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shashank-Sahu8&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&border_radius=10" alt="GitHub Trophies" />
 </div>
